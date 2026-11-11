@@ -1,4 +1,4 @@
-# RepoGuard AI — SIH26155
+# RepoGuard AI — From local code to global security!
 
 A local, read-only prototype for network-device configuration compliance auditing. This project is specifically about network configuration security, not software dependency scanning. It does not connect to devices, execute uploaded commands, or send configuration data to an external service.
 
