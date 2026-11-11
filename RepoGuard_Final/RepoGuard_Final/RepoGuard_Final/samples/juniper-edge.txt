@@ -1,8 +1,0 @@
-# Synthetic Juniper Junos demonstration; documentation-only values
-set system host-name edge-juniper-demo
-set system services ssh protocol-version v2
-set system services web-management https
-set system syslog host 192.0.2.60 any any
-set system login password format sha256
-set system services telnet
-set system login idle-timeout 10
